@@ -1,0 +1,12 @@
+# Ignore virtual environments
+.venv/
+
+# Ignore PyCharm project settings
+.idea/
+
+# Ignore system files
+__pycache__/
+*.pyc
+*.pyo
+*.DS_Store
+Thumbs.db
